@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-
-import 'counter_provider.dart';
+import 'providers/counter_provider.dart';
 
 void main() {
   runApp(const MainApp());
